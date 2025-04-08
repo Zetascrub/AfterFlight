@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# AfterFlight
-=======
 # 🛸 Drone Media Uploader — SkySync
 
 Automatically sync media from your drone's internal storage to an SMB share when connected. Ideal for hands-off backups after flying missions.
