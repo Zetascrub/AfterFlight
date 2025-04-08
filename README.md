@@ -58,4 +58,3 @@ python drone_sync.py
 ```
 
 Or you can run the above command and it'll wait till it detects the paths specified in the settings.xml file you created. Then upload all files from its DCIM folder into the SMB share inside a date-based subfolder.
->>>>>>> a9b0998 (Initial Upload)
