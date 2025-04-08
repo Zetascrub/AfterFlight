@@ -1,0 +1,13 @@
+<config>
+    <smb>
+        <server>IP/SERVER</server>
+        <share>SHARE</share>
+        <baseFolder>SHARE FOLDER</baseFolder>
+        <username></username>
+        <password></password>
+    </smb>
+    <drone>
+        <mountPath>DRONE PATH</mountPath>
+        <mediaFolder>DCIM</mediaFolder>
+    </drone>
+</config>
